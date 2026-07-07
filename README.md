@@ -2,6 +2,8 @@
 
 A feature-rich retro Snake game built with **Python 3** and **PyGame 2.x**.
 
+> 🎨 **Built with vibe coding** — this project was developed through an iterative, AI-assisted coding process rather than a traditional spec-first workflow.
+
 ---
 
 ## Requirements
