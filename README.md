@@ -121,3 +121,11 @@ snake_project/
 ├── highscore.json  ← Auto-created on first run
 └── report.pdf      ← Maintenance report
 ```
+
+## Screenshots
+
+![Gameplay](screenshots/gameplay.png)
+
+![Level Up](screenshots/gameplay2.png)
+
+![Game Over](screenshots/gameplay3.png)
