@@ -4,6 +4,14 @@ A feature-rich retro Snake game built with **Python 3** and **PyGame 2.x**.
 
 > 🎨 **Built with vibe coding** — this project was developed through an iterative, AI-assisted coding process rather than a traditional spec-first workflow.
 
+## Screenshots
+
+![Gameplay](screenshots/gameplay.png)
+
+![Gameplay2](screenshots/gameplay2.png)
+
+![Gameplay3](screenshots/gameplay3.png)
+
 ---
 
 ## Requirements
@@ -122,10 +130,3 @@ snake_project/
 └── report.pdf      ← Maintenance report
 ```
 
-## Screenshots
-
-![Gameplay](screenshots/gameplay.png)
-
-![Level Up](screenshots/gameplay2.png)
-
-![Game Over](screenshots/gameplay3.png)
